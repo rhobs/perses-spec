@@ -1,4 +1,4 @@
-module github.com/perses/spec
+module github.com/rhobs/perses-spec
 
 go 1.26.7
 

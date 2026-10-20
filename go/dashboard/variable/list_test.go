@@ -16,7 +16,7 @@ package variable
 import (
 	"testing"
 
-	"github.com/perses/spec/go/plugin"
+	"github.com/rhobs/perses-spec/go/plugin"
 	"github.com/stretchr/testify/assert"
 )
 

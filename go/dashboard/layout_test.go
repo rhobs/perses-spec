@@ -17,7 +17,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/perses/spec/go/common"
+	"github.com/rhobs/perses-spec/go/common"
 	"github.com/stretchr/testify/assert"
 	"gopkg.in/yaml.v3"
 )
@@ -541,13 +541,13 @@ spec:
     y: 0
     width: 3
     height: 4
-    content: 
+    content:
       $ref: "#/panels/gaugeCpuBusy"
   - x: 3
     y: 0
     width: 3
     height: 4
-    content: 
+    content:
       $ref: "#/panels/gaugeSystemLoad"
 `,
 			result: Layout{

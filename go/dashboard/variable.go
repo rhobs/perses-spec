@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/perses/spec/go/common"
-	"github.com/perses/spec/go/dashboard/variable"
+	"github.com/rhobs/perses-spec/go/common"
+	"github.com/rhobs/perses-spec/go/dashboard/variable"
 	"gopkg.in/yaml.v3"
 )
 

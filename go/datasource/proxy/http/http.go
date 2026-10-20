@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/perses/spec/go/common"
-	"github.com/perses/spec/go/datasource/proxy"
+	"github.com/rhobs/perses-spec/go/common"
+	"github.com/rhobs/perses-spec/go/datasource/proxy"
 )
 
 type AllowedEndpoint struct {

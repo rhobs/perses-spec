@@ -17,10 +17,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/perses/spec/go/common"
-	"github.com/perses/spec/go/datasource/proxy/http"
-	"github.com/perses/spec/go/datasource/proxy/sql"
-	"github.com/perses/spec/go/plugin"
+	"github.com/rhobs/perses-spec/go/common"
+	"github.com/rhobs/perses-spec/go/datasource/proxy/http"
+	"github.com/rhobs/perses-spec/go/datasource/proxy/sql"
+	"github.com/rhobs/perses-spec/go/plugin"
 )
 
 type Spec struct {

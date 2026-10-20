@@ -18,8 +18,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/perses/spec/go/common"
-	"github.com/perses/spec/go/datasource/proxy"
+	"github.com/rhobs/perses-spec/go/common"
+	"github.com/rhobs/perses-spec/go/datasource/proxy"
 )
 
 // Driver the SQL driver to use

@@ -20,7 +20,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/perses/spec/go/common"
+	"github.com/rhobs/perses-spec/go/common"
 	"github.com/stretchr/testify/assert"
 	"gopkg.in/yaml.v3"
 )

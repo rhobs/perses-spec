@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/perses/spec/go/common"
-	"github.com/perses/spec/go/datasource"
-	"github.com/perses/spec/go/plugin"
+	"github.com/rhobs/perses-spec/go/common"
+	"github.com/rhobs/perses-spec/go/datasource"
+	"github.com/rhobs/perses-spec/go/plugin"
 )
 
 type Link struct {
